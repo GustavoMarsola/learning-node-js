@@ -1,0 +1,25 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node --watch --no-warnings server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoMarsola/learning-node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoMarsola/learning-node-js/issues"
+  },
+  "homepage": "https://github.com/GustavoMarsola/learning-node-js#readme",
+  "description": "",
+  "dependencies": {
+    "fastify": "^5.6.2"
+  }
+}
